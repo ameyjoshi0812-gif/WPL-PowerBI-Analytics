@@ -147,7 +147,7 @@ The report follows a **Star Schema** consisting of a central fact table connecte
 
 Aspiring Data Analyst | Sports Analytics Enthusiast | Power BI Developer
 
-🔗 **LinkedIn:** *(Add your LinkedIn profile URL here)*
+🔗 **LinkedIn:** www.linkedin.com/in/amey-joshi0899
 
 ---
 
