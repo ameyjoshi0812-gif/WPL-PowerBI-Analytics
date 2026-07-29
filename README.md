@@ -22,11 +22,11 @@ The project demonstrates the complete analytics workflow including data preparat
 
 | Tournament Overview | Team Analysis |
 |---------------------|--------------|
-| ![](Tournament Overview.png) | ![](Team Analysis.png) |
+| ![](Tournament_Overview.png) | ![](Team_Analysis.png) |
 
 | Player Analysis | Bowling Analysis |
 |-----------------|-----------------|
-| ![](Player Analysis.png) | ![](Bowling Analysis.png) |
+| ![](Player_Analysis.png) | ![](Bowling_Analysis.png) |
 
 ---
 
