@@ -120,7 +120,7 @@ The report follows a **Star Schema** consisting of a central fact table connecte
 📁 WPL-PowerBI-Analytics
 │
 ├── WPL Analysis.pbix
-├── Overview.png
+├── Tournament_Overview.png
 ├── Team_Analysis.png
 ├── Player_Analysis.png
 ├── Bowling_Analysis.png
